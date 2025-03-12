@@ -1,3 +1,3 @@
 # The-Coded-Chaos-Zenith
 
-This repository contains the python file of the code for the hackathon.
+This repository contains the python file for the hackathon.
